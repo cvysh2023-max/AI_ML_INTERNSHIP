@@ -1,0 +1,1531 @@
+start,end,timestamp,conversation,word_count,contains_question,duration,agreement_score,question_score,disagreement_score,sentiment_score,tfidf_score,highlight_score,event,rank
+579.5600000000001,582.64,09:39,"
+Previous:
+What would be a better message? And to figure that out, I had to go back to square one, like, what do I want?
+
+Current:
+Why did I say yes to this speaking gig?
+
+Next:
+What is my deeper purpose here? And I realized at the heart of it, I just want to help my audience to the best of my
+",0.7407407407407407,0.0,0.584717607973422,0.0,1.0,0.3333333333333333,1.0,0.7774056463883123,67.18,Question,1
+571.72,579.5600000000001,09:31,"
+Previous:
+And that really was not working. But what would work?
+
+Current:
+What would be a better message? And to figure that out, I had to go back to square one, like, what do I want?
+
+Next:
+Why did I say yes to this speaking gig?
+",0.5925925925925926,0.0,0.6744186046511628,0.0,1.0,0.3333333333333333,0.9505841000723663,0.714613743057695,64.89,Question,2
+751.44,759.9200000000001,12:31,"
+Previous:
+Or maybe you're just super excited to have this experience or share with them some cool
+
+Current:
+solution you have for their problem. You get to fill in the blank and decide what you want to accomplish.
+
+Next:
+And this is not about graduating to some higher level of being where you never again feel
+",0.5555555555555556,0.0,0.7342192691029901,1.0,0.2857142857142857,0.6666666666666666,0.9407629484131086,0.589742020625309,64.5,Agreement,3
+595.68,600.24,09:55,"
+Previous:
+What is my deeper purpose here? And I realized at the heart of it, I just want to help my audience to the best of my
+
+Current:
+And when I said that, I noticed everything change.
+
+Next:
+That's where I found my first silent sentence.
+",0.5925925925925926,0.0,0.49833887043189373,0.0,0.6190476190476191,0.6666666666666666,0.9444846479892484,0.8210194005853991,61.52,Question,4
+848.4399999999999,854.16,14:08,"
+Previous:
+What's being broadcast? Then replace that with a better sentence to help set you up for where you'd like to go.
+
+Current:
+And most importantly, put it in the script and practice it just as much as the words
+
+Next:
+you say out loud. So if you're running your intro in the shower three times in a row, it would go silent
+",0.37037037037037035,1.0,0.3089700996677741,0.0,0.42857142857142855,1.0,0.9043729970019642,0.8645894827374347,59.97,Question,5
+568.0,571.72,09:28,"
+Previous:
+I realized I was giving myself an impossible instruction to be perfect.
+
+Current:
+And that really was not working. But what would work?
+
+Next:
+What would be a better message? And to figure that out, I had to go back to square one, like, what do I want?
+",0.7037037037037037,0.0,0.5813953488372093,0.0,0.8095238095238095,0.3333333333333333,0.9335263103483924,0.6548932572807737,58.76,Question,6
+199.92000000000002,203.4,03:19,"
+Previous:
+Number three, superhero stance. Imagine you are a superhero.
+
+Current:
+You can do it from your chair. How would a superhero sit?
+
+Next:
+Yes, let that change your posture. I see you.
+",0.48148148148148145,0.0,0.504983388704319,1.0,0.7142857142857143,0.3333333333333333,0.47430993487025735,0.4134482634000673,58.17,Question,7
+207.84,212.0,03:27,"
+Previous:
+Yes, let that change your posture. I see you.
+
+Current:
+Let that bring a smile to your face and have some better eye contact.
+
+Next:
+All of that reads as confident and pretending to be a superhero is just a super quick way
+",0.6666666666666666,0.0,0.3621262458471761,1.0,0.09523809523809523,0.3333333333333333,0.9710534477411351,0.7112914016507093,56.32,Agreement,8
+449.2,453.08,07:29,"
+Previous:
+read your music every day and then play it for the very first time at the concert on Friday?
+
+Current:
+And yet I see speakers do this all the time.
+
+Next:
+Give yourself a chance. Practice helps everything. And it can really boost your confidence to practice with purpose by layering in one
+",0.7037037037037037,0.0,0.8073089700996678,0.0,0.42857142857142855,0.6666666666666666,0.9417967538509252,0.6664005020364683,55.72,Question,9
+252.36,255.16000000000003,04:12,"
+Previous:
+And if you need an easy shortcut, just make the shape.
+
+Current:
+Just make the shape of a confident person.
+
+Next:
+The audience cannot read your mind. They don't know how you're feeling.
+",0.5185185185185185,1.0,0.5083056478405316,1.0,0.09523809523809523,0.3333333333333333,0.7908611599297012,0.7609001438227745,54.6,Agreement,10
+945.24,946.24,15:45,"
+Previous:
+of a confident captain. And who knows? You might even have fun.
+
+Current:
+Have a great trip.
+
+Next:
+
+",0.48148148148148145,0.0,0.7275747508305648,1.0,0.3333333333333333,0.0,0.9211206450945931,0.527569484527168,53.75,Agreement,11
+84.72,89.36,01:24,"
+Previous:
+So I'd like to share my top five tips for how to be confident, even if you're not.
+
+Current:
+So let's break it down. What was the difference between those two captains?
+
+Next:
+What did you see? What did you hear?
+",0.7777777777777778,0.0,0.7242524916943522,0.0,0.8095238095238095,0.0,0.8887625348909335,0.5951219541642256,52.98,Question,12
+726.76,731.8,12:06,"
+Previous:
+Now how do you go about finding your silent sentence?
+
+Current:
+What do you want? What's your deeper purpose?
+
+Next:
+You could be like me and you might just want to help people.
+",0.5925925925925926,0.0,0.840531561461794,0.0,0.7142857142857143,0.0,0.7936524346118061,0.7783576313419437,52.49,Question,13
+910.24,916.4000000000001,15:10,"
+Previous:
+But think back to when I was demonstrating the nervous captain at the top.
+
+Current:
+How did that make you feel? And then when the confident captain came out, oh, what a relief.
+
+Next:
+Now I can just sit back and enjoy the ride.
+",0.5185185185185185,0.0,0.3853820598006645,0.0,0.8095238095238095,0.0,0.9543057996485061,0.6574701051603246,52.22,Question,14
+304.48,312.12,05:04,"
+Previous:
+I know most people don't like to watch themselves.
+
+Current:
+I get it. But wouldn't you rather make that adjustment before you're in front of your audience?
+
+Next:
+Showing yourself is a great way to check in to see that you're doing the techniques,
+",0.3333333333333333,0.0,0.292358803986711,1.0,0.3333333333333333,0.0,0.7393776491264343,0.7171415685196335,51.9,Agreement,15
+435.52,441.04,07:15,"
+Previous:
+But think about when you learn a new sport or when you practice a musical instrument.
+
+Current:
+If you had a piano concert on Friday and you got new music on Monday, would you only
+
+Next:
+read your music every day and then play it for the very first time at the concert on Friday?
+",0.4074074074074074,1.0,0.4385382059800665,1.0,0.5238095238095238,0.0,0.4928150522071746,0.6061561161854775,51.84,Question,16
+916.4,919.92,15:16,"
+Previous:
+How did that make you feel? And then when the confident captain came out, oh, what a relief.
+
+Current:
+Now I can just sit back and enjoy the ride.
+
+Next:
+Remember that feeling of safety you had as an audience member and bring that into your
+",0.2962962962962963,0.0,0.17940199335548176,0.0,0.7142857142857143,0.0,0.9462421172335366,0.8178880874347537,50.79,Question,17
+464.52,474.47999999999996,07:44,"
+Previous:
+Give yourself a chance. Practice helps everything. And it can really boost your confidence to practice with purpose by layering in one
+
+Current:
+new technique each day. Okay, those first four techniques, they're all about how to appear confident, regardless
+
+Next:
+of how you're feeling. I've got one more technique for you.
+",0.4444444444444444,0.0,0.40531561461794025,0.0,0.2857142857142857,0.6666666666666666,0.9727075364416415,0.7290332268383559,50.56,Disagreement,18
+906.32,910.24,15:06,"
+Previous:
+sentence, please know that it might feel uncomfortable at first because it's new and that
+
+Current:
+But think back to when I was demonstrating the nervous captain at the top.
+
+Next:
+How did that make you feel? And then when the confident captain came out, oh, what a relief.
+",0.4444444444444444,0.0,0.3920265780730897,0.0,0.7142857142857143,0.0,0.8686033288535097,0.7556281573538559,50.18,Question,19
+331.12,337.44,05:31,"
+Previous:
+Now how can you do all of these things on performance day?
+
+Current:
+Number four, practice with purpose. So make yourself a rehearsal schedule.
+
+Next:
+Put it in your calendar. You can give yourself a little treat when you do a run-through and make it practice
+",0.48148148148148145,0.0,0.7475083056478405,0.0,0.8095238095238095,0.3333333333333333,0.41693373307143594,0.6138105571669873,49.91,Question,20
+78.96,84.72,01:18,"
+Previous:
+want to know, how do you show up and look confident?
+
+Current:
+So I'd like to share my top five tips for how to be confident, even if you're not.
+
+Next:
+So let's break it down. What was the difference between those two captains?
+",0.6666666666666666,0.0,0.45514950166112966,0.0,0.6190476190476191,0.0,0.9468624004962266,0.691109922442002,49.11,Question,21
+631.64,640.4,10:31,"
+Previous:
+And now that thought replaced those unhelpful thoughts and everything went better in my performance.
+
+Current:
+And I was like, yes, it worked. And then I was like, wait.
+
+Next:
+How do I do this every time? Especially when the stakes are high.
+",0.7037037037037037,1.0,0.5481727574750831,0.0,0.7142857142857143,0.0,0.89165719011682,0.5774084677901378,49.04,Question,22
+640.4,645.52,10:40,"
+Previous:
+And I was like, yes, it worked. And then I was like, wait.
+
+Current:
+How do I do this every time? Especially when the stakes are high.
+
+Next:
+And it dawned on me. Like if I'm writing and crafting the words I say out loud, why not write and craft the
+",0.37037037037037035,0.0,0.3222591362126246,0.0,0.8095238095238095,0.0,0.8767703918122609,0.6093119874430207,49.04,Question,23
+552.1999999999999,556.68,09:12,"
+Previous:
+And I was like, what can I do?
+
+Current:
+And I thought, well, what am I telling myself?
+
+Next:
+What if you mess up? You better be perfect.
+",0.6666666666666666,0.0,0.3222591362126246,0.0,0.6190476190476191,0.3333333333333333,0.8783210999689858,0.5202132967319169,49.0,Question,24
+936.4399999999999,945.24,15:36,"
+Previous:
+Reach outside your comfort zone to make your audience feel safe by making the choices
+
+Current:
+of a confident captain. And who knows? You might even have fun.
+
+Next:
+Have a great trip.
+",0.5555555555555556,0.0,0.5614617940199336,0.0,0.3333333333333333,0.3333333333333333,0.9761190943864365,0.7194705654082652,47.95,Disagreement,25
+645.52,653.4,10:45,"
+Previous:
+How do I do this every time? Especially when the stakes are high.
+
+Current:
+And it dawned on me. Like if I'm writing and crafting the words I say out loud, why not write and craft the
+
+Next:
+words I say silently to myself? Put it in the script.
+",0.8148148148148148,0.0,0.9501661129568106,0.0,0.8095238095238095,0.0,0.44753437403080737,0.6017508303231893,47.81,Question,26
+120.32,127.75999999999999,02:00,"
+Previous:
+You can do that too. Anyone can do this.
+
+Current:
+So what are those confident looking choices? Number one, turn up the energy and speak up.
+
+Next:
+When you speak up, even just a little bit, it reads as confident.
+",0.2962962962962963,1.0,0.16611295681063123,0.0,0.9047619047619048,0.0,0.8597126020882869,0.47404709357170327,47.31,Question,27
+887.44,898.7600000000001,14:47,"
+Previous:
+When you're at home and you're practicing some of these techniques like turn up the energy
+
+Current:
+and speak up, pause like a boss, superhero stance, practice with purpose and your silent
+
+Next:
+sentence, please know that it might feel uncomfortable at first because it's new and that
+",0.3333333333333333,0.0,0.3787375415282392,0.0,0.09523809523809523,0.6666666666666666,0.7514731727488886,0.9988752541800355,47.19,Disagreement,28
+236.68,240.36,03:56,"
+Previous:
+You tuck in that cape and go save the day.
+
+Current:
+And you can stand in superhero backstage to boost your confidence.
+
+Next:
+But I'm saying bring that superhero stance on stage so that your audience sees you as
+",0.5185185185185185,1.0,0.7774086378737541,1.0,0.09523809523809523,0.0,0.6460250180915952,0.6571725973773171,46.69,Agreement,29
+721.4799999999999,726.76,12:01,"
+Previous:
+I really am a good host because I am genuinely welcoming you to my world.
+
+Current:
+Now how do you go about finding your silent sentence?
+
+Next:
+What do you want? What's your deeper purpose?
+",0.3333333333333333,0.0,0.29568106312292364,0.0,0.6190476190476191,0.0,0.8293187222164788,0.7725945382841258,46.51,Question,30
+384.52,391.56,06:24,"
+Previous:
+Whatever you need to do to get in those repetitions and don't be afraid of over-practice.
+
+Current:
+Don't let that stop you. You can just let go of your verbatim script if it's starting to sound robotic.
+
+Next:
+And you can still use bullet point speaker notes to remind yourself of what you would
+",0.4444444444444444,0.0,0.3920265780730897,0.0,0.47619047619047616,1.0,0.23105551535201074,0.579694934487946,46.15,Question,31
+52.28,57.760000000000005,00:52,"
+Previous:
+I'll be your captain for this journey. Let's have a great trip.
+
+Current:
+The point is, when you are the speaker, you are the captain for that journey and how you
+
+Next:
+show up really matters. For the last 17 years, I've coached thousands of speakers all over the world from big tech
+",1.0,0.0,1.0,0.0,0.38095238095238093,0.3333333333333333,0.6923395017057788,0.5497051913145087,45.9,Disagreement,32
+325.68,331.12,05:25,"
+Previous:
+but also to see that it's still authentically you, your version of Confident Captain.
+
+Current:
+Now how can you do all of these things on performance day?
+
+Next:
+Number four, practice with purpose. So make yourself a rehearsal schedule.
+",0.6666666666666666,0.0,0.6146179401993356,0.0,0.5238095238095238,0.0,0.719115062545229,0.7742084419545778,45.77,Question,33
+91.36,97.84,01:31,"
+Previous:
+What did you see? What did you hear?
+
+Current:
+And not just one seemed nervous, one seemed confident, but what was I doing differently
+
+Next:
+to make you think that different volume, different words, certainly different body language, but
+",0.5555555555555556,0.0,0.6345514950166113,0.0,0.7142857142857143,0.0,0.6343430166442675,0.6093708704640087,45.51,Question,34
+801.12,803.96,13:21,"
+Previous:
+And when big moments like this come up, I get to choose.
+
+Current:
+And that's what I was doing back there in the wings.
+
+Next:
+I was choosing to gently insist on repeating my silent sentence to set myself up for
+",0.6296296296296297,0.0,0.7109634551495018,0.0,0.19047619047619047,0.6666666666666666,0.723973948102967,0.6544285391977479,45.41,Disagreement,35
+837.0,848.4399999999999,13:57,"
+Previous:
+well in the future, use this checklist. What am I telling myself?
+
+Current:
+What's being broadcast? Then replace that with a better sentence to help set you up for where you'd like to go.
+
+Next:
+And most importantly, put it in the script and practice it just as much as the words
+",0.4444444444444444,0.0,0.5880398671096346,0.0,0.42857142857142855,0.0,0.9398325235190736,0.7124130603312747,44.22,Question,36
+343.8,349.76,05:43,"
+Previous:
+Put it in your calendar. You can give yourself a little treat when you do a run-through and make it practice
+
+Current:
+with purpose by giving yourself a specific goal or layering in one new Confident Captain
+
+Next:
+technique each day. If it's a week before your event, aim to run it all the way through at least once a day.
+",0.48148148148148145,0.0,0.3056478405315615,0.0,0.2857142857142857,0.3333333333333333,0.817740101312933,0.7760981564183697,43.87,Disagreement,37
+318.72,325.68,05:18,"
+Previous:
+Showing yourself is a great way to check in to see that you're doing the techniques,
+
+Current:
+but also to see that it's still authentically you, your version of Confident Captain.
+
+Next:
+Now how can you do all of these things on performance day?
+",0.5185185185185185,0.0,0.345514950166113,0.0,0.6190476190476191,0.0,0.8078155691098935,0.595340839005197,43.82,Question,38
+919.92,924.52,15:19,"
+Previous:
+Now I can just sit back and enjoy the ride.
+
+Current:
+Remember that feeling of safety you had as an audience member and bring that into your
+
+Next:
+You can give that gift to your audience.
+",0.5555555555555556,0.0,0.4385382059800665,0.0,0.19047619047619047,0.6666666666666666,0.8844205520521038,0.5412448339946173,43.82,Disagreement,39
+520.72,528.28,08:40,"
+Previous:
+to step on a stage. I'm shaking, I'm sweating, and I'm like, what was I thinking?
+
+Current:
+Why do I do this to myself? And all these unhelpful voices flood in and I just tried to make it stop, push it away,
+
+Next:
+and of course that never worked. And I kept going on stage because I love it.
+",0.7777777777777778,0.0,0.5282392026578073,0.0,0.6190476190476191,0.0,0.6535717977876563,0.5770300714575136,43.35,Question,40
+160.08,169.44,02:40,"
+Previous:
+And it sounds prepared, positive and confident. So turn up the energy and speak up.
+
+Current:
+Number two, pause like a boss. Nervous speakers tend to talk really fast, right?
+
+Next:
+And then when they do have a pause, they fill it in with verbal filler, likes and umbs.
+",0.5925925925925926,1.0,0.6179401993355482,0.0,0.42857142857142855,0.0,0.9543057996485061,0.561757018812562,42.32,Question,41
+132.64,135.44,02:12,"
+Previous:
+When you speak up, even just a little bit, it reads as confident.
+
+Current:
+And you don't have to shout. Think about it this way.
+
+Next:
+On a scale of one to ten, aim for a five.
+",0.5555555555555556,0.0,0.5382059800664453,0.0,0.09523809523809523,1.0,0.5105965057376202,0.5907231792186358,42.32,Disagreement,42
+47.8,52.28,00:47,"
+Previous:
+Nope, get me off of this boat. What we want in that moment is for the captain to walk out and say, Hi, my name is Montana
+
+Current:
+I'll be your captain for this journey. Let's have a great trip.
+
+Next:
+The point is, when you are the speaker, you are the captain for that journey and how you
+",0.2962962962962963,0.0,0.3704318936877077,0.0,0.6666666666666666,0.0,0.6820014473276128,0.5580090239347991,41.39,Question,43
+496.6,501.76,08:16,"
+Previous:
+This is number five, the silent sentence. This is about what you choose to tell yourself.
+
+Current:
+I've been a professional actor since I was a kid and I have always loved going on stage
+
+Next:
+as an actor, as a speaker, as an MC.
+",0.5185185185185185,0.0,0.5780730897009967,0.0,0.2857142857142857,0.3333333333333333,0.6931665460560322,0.6564611779868327,41.15,Disagreement,44
+603.36,608.0799999999999,10:03,"
+Previous:
+That's where I found my first silent sentence.
+
+Current:
+I want to help my audience to the best of my ability.
+
+Next:
+When I said it even silently to myself, it acted like this override switch.
+",0.6296296296296297,0.0,0.6179401993355482,0.0,0.19047619047619047,0.0,0.9368344877494055,0.7715415669485629,40.48,Other,45
+105.64,110.28,01:45,"
+Previous:
+to make you think that different volume, different words, certainly different body language, but
+
+Current:
+the truth is, I wasn't actually feeling particularly confident.
+
+Next:
+I was just making certain physical and vocal choices to make you think that.
+",0.6666666666666666,0.0,0.47840531561461797,0.0,0.0,0.6666666666666666,0.918122609324925,0.5451611745015889,40.4,Disagreement,46
+820.72,828.9200000000001,13:40,"
+Previous:
+What we tell ourselves really matters. We follow our own instructions all day long.
+
+Current:
+Our whole selves are always listening. So when you notice something isn't going well or you're fearing something might not go
+
+Next:
+well in the future, use this checklist. What am I telling myself?
+",0.3333333333333333,1.0,0.35215946843853824,0.0,0.6190476190476191,0.0,0.7367931355318929,0.5168086476600073,40.29,Question,47
+255.16000000000003,259.88,04:15,"
+Previous:
+Just make the shape of a confident person.
+
+Current:
+The audience cannot read your mind. They don't know how you're feeling.
+
+Next:
+So just make the shape and they will go with it.
+",0.3333333333333333,0.0,0.40531561461794025,0.0,0.09523809523809523,0.6666666666666666,0.5912333298873151,0.7609001438227745,40.16,Disagreement,48
+556.68,560.92,09:16,"
+Previous:
+And I thought, well, what am I telling myself?
+
+Current:
+What if you mess up? You better be perfect.
+
+Next:
+I realized I was giving myself an impossible instruction to be perfect.
+",0.8148148148148148,0.0,0.4916943521594685,0.0,0.42857142857142855,0.0,0.9437609841827768,0.4331823808850512,40.07,Question,49
+600.24,603.36,10:00,"
+Previous:
+And when I said that, I noticed everything change.
+
+Current:
+That's where I found my first silent sentence.
+
+Next:
+I want to help my audience to the best of my ability.
+",0.7407407407407407,0.0,0.611295681063123,0.0,0.19047619047619047,0.0,0.8982735449188463,0.7181557028235998,39.36,Other,50
+474.47999999999996,479.4,07:54,"
+Previous:
+new technique each day. Okay, those first four techniques, they're all about how to appear confident, regardless
+
+Current:
+of how you're feeling. I've got one more technique for you.
+
+Next:
+And it's a big one. But this is the real gem.
+",0.3333333333333333,0.0,0.2558139534883721,0.0,0.2857142857142857,0.6666666666666666,0.4357489920396981,0.5925541323896639,38.48,Disagreement,51
+66.48,74.12,01:06,"
+Previous:
+show up really matters. For the last 17 years, I've coached thousands of speakers all over the world from big tech
+
+Current:
+companies to small startups and everyone from new hires to CEOs of Fortune 500 companies
+
+Next:
+want to know, how do you show up and look confident?
+",0.4444444444444444,0.0,0.372093023255814,0.0,0.42857142857142855,0.0,0.6186291739894552,0.7176840159198077,38.43,Question,52
+708.5999999999999,713.5999999999999,11:48,"
+Previous:
+And that invitation to the audience to be my partner, that reminds me, these are friends,
+
+Current:
+And I am choosing to be here. And now I'm not just making the shape of a good host.
+
+Next:
+I really am a good host because I am genuinely welcoming you to my world.
+",0.4074074074074074,0.0,0.292358803986711,0.0,0.09523809523809523,0.3333333333333333,0.9318722216478857,0.6486644253388799,37.83,Disagreement,53
+110.28,116.24000000000001,01:50,"
+Previous:
+the truth is, I wasn't actually feeling particularly confident.
+
+Current:
+I was just making certain physical and vocal choices to make you think that.
+
+Next:
+You can do that too. Anyone can do this.
+",0.48148148148148145,1.0,0.3853820598006645,0.0,0.38095238095238093,0.0,0.7852786105654916,0.6093708704640087,37.82,Other,54
+691.48,699.5200000000001,11:31,"
+Previous:
+The following new and evolved silent sentence. I invite you to be here with me while I am here with you so that I can make this easier
+
+Current:
+Now that invitation to myself to be present, that's my definition of stage presence, being
+
+Next:
+And that invitation to the audience to be my partner, that reminds me, these are friends,
+",0.4074074074074074,0.0,0.40863787375415284,0.0,0.19047619047619047,0.0,0.8319032358110203,0.8243430164921739,37.81,Other,55
+192.88,199.92000000000002,03:12,"
+Previous:
+Pause in transition. Pause for emphasis. Pause like a boss.
+
+Current:
+Number three, superhero stance. Imagine you are a superhero.
+
+Next:
+You can do it from your chair. How would a superhero sit?
+",0.4074074074074074,0.0,0.33222591362126247,0.0,0.7142857142857143,0.0,0.4357489920396981,0.4807738734507254,37.71,Question,56
+29.3,33.76,00:29,"
+Previous:
+Hi, my name's Montana, a bonfeless. Oh, so I'll be your captain for this journey.
+
+Current:
+Oh, boy, let's just have a great trip.
+
+Next:
+Nope, get me off of this boat. What we want in that moment is for the captain to walk out and say, Hi, my name is Montana
+",0.5555555555555556,0.0,0.8488372093023256,0.0,0.2857142857142857,0.0,0.6820014473276128,0.6656289572645908,37.71,Other,57
+397.56,404.92,06:37,"
+Previous:
+And you can still use bullet point speaker notes to remind yourself of what you would
+
+Current:
+like to say and to invite you to say it a little bit differently each time to keep it fresh.
+
+Next:
+And let me be clear, by practice, I mean standing up, saying it out loud, imagining your
+",0.4074074074074074,0.0,0.28903654485049834,0.0,0.2857142857142857,0.0,0.8173265791378062,0.723972292169901,37.36,Other,58
+877.96,882.9200000000001,14:37,"
+Previous:
+And it is repeatable and reliable. And then it's just there for you when you need it.
+
+Current:
+Now I want to leave you with this final thought.
+
+Next:
+When you're at home and you're practicing some of these techniques like turn up the energy
+",0.9629629629629629,1.0,0.8604651162790697,0.0,0.2857142857142857,0.0,0.5912333298873151,0.6047687971553091,37.22,Other,59
+735.84,743.88,12:15,"
+Previous:
+You could be like me and you might just want to help people.
+
+Current:
+Or it could be something more specific. For example, you might want at least one person in your audience to walk out and take a CPR
+
+Next:
+Or maybe you're just super excited to have this experience or share with them some cool
+",0.6666666666666666,0.0,0.4285714285714286,0.0,0.19047619047619047,0.0,0.9710534477411351,0.6096623153002305,37.0,Other,60
+670.72,672.44,11:10,"
+Previous:
+It's the silent part of the script. So now every time I rehearse, every time I walk onto a stage, every time I join a virtual
+
+Current:
+meeting, I say the fact that I'm not going to be a part of it.
+
+Next:
+The following new and evolved silent sentence. I invite you to be here with me while I am here with you so that I can make this easier
+",0.6296296296296297,0.0,0.8272425249169436,0.0,0.09523809523809523,0.0,0.7721492815052207,0.7718330088878025,36.68,Other,61
+97.84,105.64,01:37,"
+Previous:
+And not just one seemed nervous, one seemed confident, but what was I doing differently
+
+Current:
+to make you think that different volume, different words, certainly different body language, but
+
+Next:
+the truth is, I wasn't actually feeling particularly confident.
+",0.4074074074074074,1.0,0.4019933554817276,0.0,0.09523809523809523,0.3333333333333333,0.9255660084772045,0.5518410297996361,36.35,Disagreement,62
+624.88,631.64,10:24,"
+Previous:
+And that became my highest priority. I want to help you.
+
+Current:
+And now that thought replaced those unhelpful thoughts and everything went better in my performance.
+
+Next:
+And I was like, yes, it worked. And then I was like, wait.
+",0.6666666666666666,0.0,0.4584717607973422,0.0,0.0,0.3333333333333333,0.9426237982011786,0.5767749632729363,36.3,Disagreement,63
+173.68,179.8,02:53,"
+Previous:
+And then when they do have a pause, they fill it in with verbal filler, likes and umbs.
+
+Current:
+However, if you try to speak more slowly, it just sounds like this, right?
+
+Next:
+And that's not better. So instead, make strategic pauses.
+",0.48148148148148145,0.0,0.40531561461794025,0.0,0.42857142857142855,0.0,0.45415072883283364,0.7033465282503618,36.03,Question,64
+870.72,877.96,14:30,"
+Previous:
+And it is just a part of your process.
+
+Current:
+And it is repeatable and reliable. And then it's just there for you when you need it.
+
+Next:
+Now I want to leave you with this final thought.
+",0.3333333333333333,1.0,0.2558139534883721,1.0,0.2857142857142857,0.0,0.026672180295668355,0.50698066012228,35.63,Agreement,65
+620.1600000000001,624.88,10:20,"
+Previous:
+But now I have this higher goal, this deeper purpose and everything aligned to that.
+
+Current:
+And that became my highest priority. I want to help you.
+
+Next:
+And now that thought replaced those unhelpful thoughts and everything went better in my performance.
+",0.5925925925925926,0.0,0.5813953488372093,0.0,0.0,0.3333333333333333,0.8619869740514835,0.5915719410233156,35.63,Disagreement,66
+486.48,496.6,08:06,"
+Previous:
+It's the one that makes all the others shine.
+
+Current:
+This is number five, the silent sentence. This is about what you choose to tell yourself.
+
+Next:
+I've been a professional actor since I was a kid and I have always loved going on stage
+",0.5925925925925926,0.0,0.3920265780730897,0.0,0.2857142857142857,0.0,0.6931665460560322,0.6564611779868327,35.59,Other,67
+404.92,412.36,06:44,"
+Previous:
+like to say and to invite you to say it a little bit differently each time to keep it fresh.
+
+Current:
+And let me be clear, by practice, I mean standing up, saying it out loud, imagining your
+
+Next:
+audience and inviting them in, clicking through your slides, doing it as much like it will
+",0.7407407407407407,0.0,0.35880398671096353,0.0,0.0,0.0,0.9259795306523312,0.7850862552570748,35.09,Other,68
+759.9200000000001,765.48,12:39,"
+Previous:
+solution you have for their problem. You get to fill in the blank and decide what you want to accomplish.
+
+Current:
+And this is not about graduating to some higher level of being where you never again feel
+
+Next:
+I know I haven't. I was feeling it pretty big about 15 minutes ago.
+",0.5925925925925926,1.0,0.4950166112956811,0.0,0.2857142857142857,0.0,0.6963713429132636,0.5922099424133478,34.87,Other,69
+248.48000000000002,252.36,04:08,"
+Previous:
+But I'm saying bring that superhero stance on stage so that your audience sees you as
+
+Current:
+And if you need an easy shortcut, just make the shape.
+
+Next:
+Just make the shape of a confident person.
+",0.6666666666666666,0.0,0.35215946843853824,0.0,0.0,0.0,0.8748061614804092,0.8145490448339445,34.51,Other,70
+219.4,228.4,03:39,"
+Previous:
+All of that reads as confident and pretending to be a superhero is just a super quick way
+
+Current:
+to have confident looking body language. Now this one also goes to eleven.
+
+Next:
+But you can just aim for a five and that will be great.
+",0.5555555555555556,0.0,0.25913621262458475,0.0,0.19047619047619047,0.0,0.9407629484131086,0.5694542116685204,34.34,Other,71
+228.4,232.08,03:48,"
+Previous:
+to have confident looking body language. Now this one also goes to eleven.
+
+Current:
+But you can just aim for a five and that will be great.
+
+Next:
+You tuck in that cape and go save the day.
+",0.5555555555555556,0.0,0.5880398671096346,0.0,0.09523809523809523,0.0,0.9504807195285847,0.5974736840553381,34.31,Other,72
+263.36,267.68,04:23,"
+Previous:
+So just make the shape and they will go with it.
+
+Current:
+Like if you came over to my house for dinner and I opened up the door and I was like,
+
+Next:
+hi, come on in. We're having chicken. You'd be like, oh, is this a bad time?
+",0.37037037037037035,0.0,0.6810631229235881,0.0,0.3333333333333333,0.0,0.47430993487025735,0.6526724994337414,33.76,Other,73
+412.36,418.24,06:52,"
+Previous:
+And let me be clear, by practice, I mean standing up, saying it out loud, imagining your
+
+Current:
+audience and inviting them in, clicking through your slides, doing it as much like it will
+
+Next:
+be on the day, whether it's a virtual or in person.
+",0.5925925925925926,1.0,0.7142857142857143,0.0,0.0,0.0,0.7759743616251421,0.7676588352786179,33.53,Other,74
+608.0799999999999,612.7199999999999,10:08,"
+Previous:
+I want to help my audience to the best of my ability.
+
+Current:
+When I said it even silently to myself, it acted like this override switch.
+
+Next:
+Like, I might still be shaking and sweating.
+",0.5925925925925926,0.0,0.48837209302325585,0.0,0.09523809523809523,0.0,0.9462421172335366,0.5762881076655226,33.51,Other,75
+540.4,548.9599999999999,09:00,"
+Previous:
+And years later, when I became a speaker coach, I got asked to do all these professional
+
+Current:
+presentations and they went, well, but I still had no way to deal with that massive anxiety.
+
+Next:
+And I was like, what can I do?
+",0.8518518518518519,0.0,0.8172757475083057,0.0,0.6190476190476191,0.0,0.013336090147834177,0.4711911040314188,33.45,Question,76
+363.48,369.4,06:03,"
+Previous:
+And if you don't have time for a full run-through, just take the opening, closing, run that three
+
+Current:
+times in a row from anywhere. When you're in the shower and when you're walking your dog, when you're making a meal
+
+Next:
+for your kids, I know my kids are very used to me walking around the house, talking to myself.
+",0.5925925925925926,0.0,0.5282392026578073,0.0,0.38095238095238093,0.3333333333333333,0.0,0.6526403072590028,33.18,Disagreement,77
+745.36,751.44,12:25,"
+Previous:
+Or it could be something more specific. For example, you might want at least one person in your audience to walk out and take a CPR
+
+Current:
+Or maybe you're just super excited to have this experience or share with them some cool
+
+Next:
+solution you have for their problem. You get to fill in the blank and decide what you want to accomplish.
+",0.3333333333333333,0.0,0.33887043189368776,0.0,0.19047619047619047,0.0,0.9462421172335366,0.5332089904652757,32.98,Other,78
+279.2,284.48,04:39,"
+Previous:
+You know, you've got to make the shape of a good host.
+
+Current:
+Make the smile shape, right? Instead of cross-arms shape, open up.
+
+Next:
+Come on in. If you're not sure, if you're making confident-looking choices, you can just video yourself and watch
+",0.3333333333333333,0.0,0.584717607973422,0.0,0.3333333333333333,0.0,0.5507081567249043,0.5743400196635723,32.67,Other,79
+614.88,620.1600000000001,10:14,"
+Previous:
+Like, I might still be shaking and sweating.
+
+Current:
+But now I have this higher goal, this deeper purpose and everything aligned to that.
+
+Next:
+And that became my highest priority. I want to help you.
+",0.5555555555555556,0.0,0.5182724252491695,0.0,0.0,0.3333333333333333,0.6820014473276128,0.5946097852218638,32.49,Disagreement,80
+428.52,435.52,07:08,"
+Previous:
+And I know it might feel a little funny saying it out loud to yourself.
+
+Current:
+But think about when you learn a new sport or when you practice a musical instrument.
+
+Next:
+If you had a piano concert on Friday and you got new music on Monday, would you only
+",0.4444444444444444,0.0,0.2425249169435216,0.0,0.2857142857142857,0.3333333333333333,0.20996588442055206,0.6715620314686214,32.16,Disagreement,81
+926.1999999999999,929.8,15:26,"
+Previous:
+Remember that feeling of safety you had as an audience member and bring that into your
+
+Current:
+You can give that gift to your audience.
+
+Next:
+Reach outside your comfort zone to make your audience feel safe by making the choices
+",0.4074074074074074,0.0,0.3920265780730897,0.0,0.09523809523809523,0.0,0.9236017781453529,0.569338667325708,31.62,Other,82
+505.92,514.76,08:25,"
+Previous:
+as an actor, as a speaker, as an MC.
+
+Current:
+And at the same time, I have often been not just nervous, sometimes downright terrified
+
+Next:
+to step on a stage. I'm shaking, I'm sweating, and I'm like, what was I thinking?
+",0.4074074074074074,0.0,0.5249169435215948,0.0,0.3333333333333333,0.0,0.3482890520004135,0.6564110269422909,31.35,Other,83
+179.8,184.68,02:59,"
+Previous:
+However, if you try to speak more slowly, it just sounds like this, right?
+
+Current:
+And that's not better. So instead, make strategic pauses.
+
+Next:
+Pause in transition. Pause for emphasis. Pause like a boss.
+",0.4074074074074074,0.0,0.23255813953488372,0.0,0.23809523809523808,0.3333333333333333,0.39346634963299904,0.562417715560491,31.3,Disagreement,84
+773.2800000000001,776.48,12:53,"
+Previous:
+I know I haven't. I was feeling it pretty big about 15 minutes ago.
+
+Current:
+Well, we're getting ready to walk on this stage.
+
+Next:
+And I am and probably always will be a recovering perfectionist.
+",0.9259259259259259,1.0,0.627906976744186,0.0,0.0,0.0,0.8655019125400599,0.519730156752288,31.15,Other,85
+803.96,811.52,13:23,"
+Previous:
+And that's what I was doing back there in the wings.
+
+Current:
+I was choosing to gently insist on repeating my silent sentence to set myself up for
+
+Next:
+What we tell ourselves really matters. We follow our own instructions all day long.
+",0.2962962962962963,1.0,0.26910299003322263,0.0,0.19047619047619047,0.0,0.5901995244494985,0.7165755386012095,30.77,Other,86
+349.76,359.59999999999997,05:49,"
+Previous:
+with purpose by giving yourself a specific goal or layering in one new Confident Captain
+
+Current:
+technique each day. If it's a week before your event, aim to run it all the way through at least once a day.
+
+Next:
+And if you don't have time for a full run-through, just take the opening, closing, run that three
+",0.37037037037037035,0.0,0.38205980066445183,0.0,0.0,0.0,0.7038147420655432,0.8220041208004671,30.76,Other,87
+796.4,801.12,13:16,"
+Previous:
+It is there. It cannot be erased. But now I have this other pathway.
+
+Current:
+And when big moments like this come up, I get to choose.
+
+Next:
+And that's what I was doing back there in the wings.
+",0.6296296296296297,0.0,0.41528239202657813,0.0,0.2857142857142857,0.0,0.5192804714152796,0.4711911040314188,29.58,Other,88
+149.88000000000002,153.0,02:29,"
+Previous:
+I'm here at a five right now. I can bring it back down to a three down here.
+
+Current:
+Nervous captain was down here and then we bring it back up to a five.
+
+Next:
+And it sounds prepared, positive and confident. So turn up the energy and speak up.
+",0.3333333333333333,0.0,0.3355481727574751,0.0,0.09523809523809523,0.0,0.8550604776181122,0.5135564265965822,28.82,Other,89
+9.72,16.38,00:09,"
+Previous:
+[♪ Music playing in background, applause and cheering for the music of the song.
+
+Current:
+You're going on a boat trip. And you get on board with your family and you got your bags.
+
+Next:
+And the captain comes out to greet you and says,
+",0.7037037037037037,0.0,0.553156146179402,0.0,0.0,0.0,0.8767703918122609,0.44201030475664455,28.28,Other,90
+814.48,820.72,13:34,"
+Previous:
+I was choosing to gently insist on repeating my silent sentence to set myself up for
+
+Current:
+What we tell ourselves really matters. We follow our own instructions all day long.
+
+Next:
+Our whole selves are always listening. So when you notice something isn't going well or you're fearing something might not go
+",0.3333333333333333,1.0,0.372093023255814,0.0,0.2857142857142857,0.0,0.21441124780316342,0.7165755386012095,28.22,Other,91
+369.4,376.4,06:09,"
+Previous:
+times in a row from anywhere. When you're in the shower and when you're walking your dog, when you're making a meal
+
+Current:
+for your kids, I know my kids are very used to me walking around the house, talking to myself.
+
+Next:
+Whatever you need to do to get in those repetitions and don't be afraid of over-practice.
+",0.4074074074074074,0.0,0.3222591362126246,0.0,0.47619047619047616,0.0,0.0,0.5905733442351608,27.36,Question,92
+139.44,145.51999999999998,02:19,"
+Previous:
+On a scale of one to ten, aim for a five.
+
+Current:
+Yes, it goes to eleven. But you can just aim for a five.
+
+Next:
+I'm here at a five right now. I can bring it back down to a three down here.
+",0.3333333333333333,0.0,0.3853820598006645,0.0,0.19047619047619047,0.3333333333333333,0.22164788586787967,0.5089158117968802,26.86,Disagreement,93
+135.44,139.44,02:15,"
+Previous:
+And you don't have to shout. Think about it this way.
+
+Current:
+On a scale of one to ten, aim for a five.
+
+Next:
+Yes, it goes to eleven. But you can just aim for a five.
+",0.5185185185185185,0.0,0.6478405315614618,0.0,0.09523809523809523,0.3333333333333333,0.22164788586787967,0.5151277565719979,26.84,Disagreement,94
+785.4,788.84,13:05,"
+Previous:
+And I am and probably always will be a recovering perfectionist.
+
+Current:
+That is a well-worn pathway in my brain.
+
+Next:
+It is there. It cannot be erased. But now I have this other pathway.
+",0.5925925925925926,0.0,0.5913621262458473,0.0,0.19047619047619047,0.3333333333333333,0.1965264137289362,0.4090730541645467,26.81,Disagreement,95
+0.0,8.48,00:00,"
+Previous:
+
+
+Current:
+[♪ Music playing in background, applause and cheering for the music of the song.
+
+Next:
+You're going on a boat trip. And you get on board with your family and you got your bags.
+",0.5185185185185185,0.0,0.7043189368770765,0.0,0.0,0.0,0.8110203659671249,0.4090730541645467,26.46,Other,96
+898.7600000000001,904.6400000000001,14:58,"
+Previous:
+and speak up, pause like a boss, superhero stance, practice with purpose and your silent
+
+Current:
+sentence, please know that it might feel uncomfortable at first because it's new and that
+
+Next:
+But think back to when I was demonstrating the nervous captain at the top.
+",0.2962962962962963,0.0,0.25913621262458475,0.0,0.09523809523809523,0.0,0.07980977979944175,1.0,26.36,Other,97
+376.4,384.52,06:16,"
+Previous:
+for your kids, I know my kids are very used to me walking around the house, talking to myself.
+
+Current:
+Whatever you need to do to get in those repetitions and don't be afraid of over-practice.
+
+Next:
+Don't let that stop you. You can just let go of your verbatim script if it's starting to sound robotic.
+",0.2962962962962963,0.0,0.23255813953488372,0.0,0.2857142857142857,0.0,0.23105551535201074,0.6375347929005482,26.0,Other,98
+296.52,301.4,04:56,"
+Previous:
+Come on in. If you're not sure, if you're making confident-looking choices, you can just video yourself and watch
+
+Current:
+I feel like I just saw you say, not doing that one.
+
+Next:
+I know most people don't like to watch themselves.
+",0.4444444444444444,1.0,0.28903654485049834,0.0,0.09523809523809523,0.0,0.21802956683552155,0.8115535179141676,25.55,Other,99
+479.4,482.92,07:59,"
+Previous:
+of how you're feeling. I've got one more technique for you.
+
+Current:
+And it's a big one. But this is the real gem.
+
+Next:
+It's the one that makes all the others shine.
+",0.6296296296296297,1.0,0.6345514950166113,0.0,0.19047619047619047,0.3333333333333333,0.06657707019538922,0.4090730541645467,25.26,Disagreement,100
+19.080000000000002,29.3,00:19,"
+Previous:
+And the captain comes out to greet you and says,
+
+Current:
+Hi, my name's Montana, a bonfeless. Oh, so I'll be your captain for this journey.
+
+Next:
+Oh, boy, let's just have a great trip.
+",0.37037037037037035,0.0,0.22425249169435219,0.0,0.0,0.0,0.7759743616251421,0.5320737100436179,25.25,Other,101
+860.8,867.5600000000001,14:20,"
+Previous:
+you say out loud. So if you're running your intro in the shower three times in a row, it would go silent
+
+Current:
+bit, out loud bit. Not out loud, silent out loud until it is inextricably linked.
+
+Next:
+And it is just a part of your process.
+",0.8888888888888888,1.0,0.6511627906976745,0.0,0.2857142857142857,0.0,0.0,0.495667406438228,24.76,Other,102
+501.84,505.92,08:21,"
+Previous:
+I've been a professional actor since I was a kid and I have always loved going on stage
+
+Current:
+as an actor, as a speaker, as an MC.
+
+Next:
+And at the same time, I have often been not just nervous, sometimes downright terrified
+",0.4444444444444444,1.0,0.451827242524917,0.0,0.0,0.3333333333333333,0.1874289258761501,0.5902927030372259,24.1,Disagreement,103
+145.52,149.88000000000002,02:25,"
+Previous:
+Yes, it goes to eleven. But you can just aim for a five.
+
+Current:
+I'm here at a five right now. I can bring it back down to a three down here.
+
+Next:
+Nervous captain was down here and then we bring it back up to a five.
+",0.5185185185185185,0.0,0.4950166112956811,0.0,0.19047619047619047,0.0,0.20913884007029876,0.5046330102926238,23.06,Other,104
+359.59999999999997,363.48,05:59,"
+Previous:
+technique each day. If it's a week before your event, aim to run it all the way through at least once a day.
+
+Current:
+And if you don't have time for a full run-through, just take the opening, closing, run that three
+
+Next:
+times in a row from anywhere. When you're in the shower and when you're walking your dog, when you're making a meal
+",0.4074074074074074,0.0,0.3056478405315615,0.0,0.2857142857142857,0.0,0.0,0.5976397223951345,22.66,Other,105
+535.4,540.4,08:55,"
+Previous:
+and of course that never worked. And I kept going on stage because I love it.
+
+Current:
+And years later, when I became a speaker coach, I got asked to do all these professional
+
+Next:
+presentations and they went, well, but I still had no way to deal with that massive anxiety.
+",0.5555555555555556,0.0,0.4950166112956811,0.0,0.19047619047619047,0.0,0.18391398738757364,0.43631370309465817,21.5,Other,106
+612.72,614.88,10:12,"
+Previous:
+When I said it even silently to myself, it acted like this override switch.
+
+Current:
+Like, I might still be shaking and sweating.
+
+Next:
+But now I have this higher goal, this deeper purpose and everything aligned to that.
+",0.4074074074074074,0.0,0.3355481727574751,0.0,0.09523809523809523,0.0,0.2942210276026052,0.49990253947432045,20.51,Other,107
+16.38,19.080000000000002,00:16,"
+Previous:
+You're going on a boat trip. And you get on board with your family and you got your bags.
+
+Current:
+And the captain comes out to greet you and says,
+
+Next:
+Hi, my name's Montana, a bonfeless. Oh, so I'll be your captain for this journey.
+",,,,,0.0,,0.328956890313243,0.38011872267677566,,Other,108
+34.76,46.8,00:34,"
+Previous:
+Oh, boy, let's just have a great trip.
+
+Current:
+Nope, get me off of this boat. What we want in that moment is for the captain to walk out and say, Hi, my name is Montana
+
+Next:
+I'll be your captain for this journey. Let's have a great trip.
+",,,,,0.2857142857142857,,0.8881422516282435,0.6449372101339301,,Other,109
+57.76,66.48,00:57,"
+Previous:
+The point is, when you are the speaker, you are the captain for that journey and how you
+
+Current:
+show up really matters. For the last 17 years, I've coached thousands of speakers all over the world from big tech
+
+Next:
+companies to small startups and everyone from new hires to CEOs of Fortune 500 companies
+",,,,,0.38095238095238093,,0.1044143492194769,0.5907735217345618,,Other,110
+74.12,78.96,01:14,"
+Previous:
+companies to small startups and everyone from new hires to CEOs of Fortune 500 companies
+
+Current:
+want to know, how do you show up and look confident?
+
+Next:
+So I'd like to share my top five tips for how to be confident, even if you're not.
+",,,,,0.5238095238095238,,0.9403494262379819,0.6911446284031285,,Question,111
+89.36,91.36,01:29,"
+Previous:
+So let's break it down. What was the difference between those two captains?
+
+Current:
+What did you see? What did you hear?
+
+Next:
+And not just one seemed nervous, one seemed confident, but what was I doing differently
+",,,,,0.8095238095238095,,0.2800578931045177,0.5936971928701199,,Question,112
+116.28,120.32,01:56,"
+Previous:
+I was just making certain physical and vocal choices to make you think that.
+
+Current:
+You can do that too. Anyone can do this.
+
+Next:
+So what are those confident looking choices? Number one, turn up the energy and speak up.
+",,,,,0.8095238095238095,,0.7977876563630725,0.6093708704640087,,Question,113
+127.75999999999999,132.64,02:07,"
+Previous:
+So what are those confident looking choices? Number one, turn up the energy and speak up.
+
+Current:
+When you speak up, even just a little bit, it reads as confident.
+
+Next:
+And you don't have to shout. Think about it this way.
+",,,,,0.5238095238095238,,0.8597126020882869,0.5553104751175686,,Question,114
+153.0,160.08,02:33,"
+Previous:
+Nervous captain was down here and then we bring it back up to a five.
+
+Current:
+And it sounds prepared, positive and confident. So turn up the energy and speak up.
+
+Next:
+Number two, pause like a boss. Nervous speakers tend to talk really fast, right?
+",,,,,0.23809523809523808,,0.8844205520521038,0.760898904839128,,Other,115
+169.44,173.68,02:49,"
+Previous:
+Number two, pause like a boss. Nervous speakers tend to talk really fast, right?
+
+Current:
+And then when they do have a pause, they fill it in with verbal filler, likes and umbs.
+
+Next:
+However, if you try to speak more slowly, it just sounds like this, right?
+",,,,,0.42857142857142855,,0.7728729453116924,0.5753874699359176,,Question,116
+184.68,192.88,03:04,"
+Previous:
+And that's not better. So instead, make strategic pauses.
+
+Current:
+Pause in transition. Pause for emphasis. Pause like a boss.
+
+Next:
+Number three, superhero stance. Imagine you are a superhero.
+",,,,,0.09523809523809523,,0.1046211103070402,0.5763288939665528,,Other,117
+203.44,206.96,03:23,"
+Previous:
+You can do it from your chair. How would a superhero sit?
+
+Current:
+Yes, let that change your posture. I see you.
+
+Next:
+Let that bring a smile to your face and have some better eye contact.
+",,,,,0.6190476190476191,,0.8233226506771425,0.611867492962762,,Question,118
+212.0,219.4,03:32,"
+Previous:
+Let that bring a smile to your face and have some better eye contact.
+
+Current:
+All of that reads as confident and pretending to be a superhero is just a super quick way
+
+Next:
+to have confident looking body language. Now this one also goes to eleven.
+",,,,,0.09523809523809523,,0.9761190943864365,0.747456018635005,,Other,119
+232.08,236.68,03:52,"
+Previous:
+But you can just aim for a five and that will be great.
+
+Current:
+You tuck in that cape and go save the day.
+
+Next:
+And you can stand in superhero backstage to boost your confidence.
+",,,,,0.19047619047619047,,0.9961749198800786,0.5835712411917859,,Other,120
+240.36,246.72000000000003,04:00,"
+Previous:
+And you can stand in superhero backstage to boost your confidence.
+
+Current:
+But I'm saying bring that superhero stance on stage so that your audience sees you as
+
+Next:
+And if you need an easy shortcut, just make the shape.
+",,,,,0.09523809523809523,,0.8078155691098935,0.753708885294455,,Other,121
+259.88,263.36,04:19,"
+Previous:
+The audience cannot read your mind. They don't know how you're feeling.
+
+Current:
+So just make the shape and they will go with it.
+
+Next:
+Like if you came over to my house for dinner and I opened up the door and I was like,
+",,,,,0.09523809523809523,,0.6931665460560322,0.8063542894969399,,Other,122
+267.68,276.28,04:27,"
+Previous:
+Like if you came over to my house for dinner and I opened up the door and I was like,
+
+Current:
+hi, come on in. We're having chicken. You'd be like, oh, is this a bad time?
+
+Next:
+You know, you've got to make the shape of a good host.
+",,,,,0.3333333333333333,,0.7335883386746614,0.6649514667026937,,Other,123
+276.28,279.2,04:36,"
+Previous:
+hi, come on in. We're having chicken. You'd be like, oh, is this a bad time?
+
+Current:
+You know, you've got to make the shape of a good host.
+
+Next:
+Make the smile shape, right? Instead of cross-arms shape, open up.
+",,,,,0.3333333333333333,,0.5999172955649746,0.5854786845691147,,Other,124
+285.8,295.52,04:45,"
+Previous:
+Make the smile shape, right? Instead of cross-arms shape, open up.
+
+Current:
+Come on in. If you're not sure, if you're making confident-looking choices, you can just video yourself and watch
+
+Next:
+I feel like I just saw you say, not doing that one.
+",,,,,0.3333333333333333,,0.48144319239119193,0.7489022267916167,,Other,125
+301.4,304.48,05:01,"
+Previous:
+I feel like I just saw you say, not doing that one.
+
+Current:
+I know most people don't like to watch themselves.
+
+Next:
+I get it. But wouldn't you rather make that adjustment before you're in front of your audience?
+",,,,,0.23809523809523808,,0.016851028636410626,0.8578511282722444,,Other,126
+314.0,318.72,05:14,"
+Previous:
+I get it. But wouldn't you rather make that adjustment before you're in front of your audience?
+
+Current:
+Showing yourself is a great way to check in to see that you're doing the techniques,
+
+Next:
+but also to see that it's still authentically you, your version of Confident Captain.
+",,,,,0.3333333333333333,,0.929391088597126,0.6651146738991803,,Other,127
+337.44,343.8,05:37,"
+Previous:
+Number four, practice with purpose. So make yourself a rehearsal schedule.
+
+Current:
+Put it in your calendar. You can give yourself a little treat when you do a run-through and make it practice
+
+Next:
+with purpose by giving yourself a specific goal or layering in one new Confident Captain
+",,,,,0.2857142857142857,,0.8351080326682517,0.7152232507335795,,Other,128
+391.56,397.56,06:31,"
+Previous:
+Don't let that stop you. You can just let go of your verbatim script if it's starting to sound robotic.
+
+Current:
+And you can still use bullet point speaker notes to remind yourself of what you would
+
+Next:
+like to say and to invite you to say it a little bit differently each time to keep it fresh.
+",,,,,0.38095238095238093,,0.7671870154037009,0.6918474224318842,,Other,129
+418.24,422.28000000000003,06:58,"
+Previous:
+audience and inviting them in, clicking through your slides, doing it as much like it will
+
+Current:
+be on the day, whether it's a virtual or in person.
+
+Next:
+And I know it might feel a little funny saying it out loud to yourself.
+",,,,,0.0,,0.776594644887832,0.7675200147796961,,Other,130
+422.28000000000003,428.52,07:02,"
+Previous:
+be on the day, whether it's a virtual or in person.
+
+Current:
+And I know it might feel a little funny saying it out loud to yourself.
+
+Next:
+But think about when you learn a new sport or when you practice a musical instrument.
+",,,,,0.19047619047619047,,0.20996588442055206,0.7709376087734287,,Other,131
+441.04,447.64,07:21,"
+Previous:
+If you had a piano concert on Friday and you got new music on Monday, would you only
+
+Current:
+read your music every day and then play it for the very first time at the concert on Friday?
+
+Next:
+And yet I see speakers do this all the time.
+",,,,,0.42857142857142855,,0.351493848857645,0.5448339574903522,,Question,132
+453.08,464.52,07:33,"
+Previous:
+And yet I see speakers do this all the time.
+
+Current:
+Give yourself a chance. Practice helps everything. And it can really boost your confidence to practice with purpose by layering in one
+
+Next:
+new technique each day. Okay, those first four techniques, they're all about how to appear confident, regardless
+",,,,,0.2857142857142857,,0.967124987077432,0.7829488199697386,,Other,133
+482.92,486.48,08:02,"
+Previous:
+And it's a big one. But this is the real gem.
+
+Current:
+It's the one that makes all the others shine.
+
+Next:
+This is number five, the silent sentence. This is about what you choose to tell yourself.
+",,,,,0.38095238095238093,,0.23395017057789724,0.5903025299446557,,Other,134
+514.76,520.72,08:34,"
+Previous:
+And at the same time, I have often been not just nervous, sometimes downright terrified
+
+Current:
+to step on a stage. I'm shaking, I'm sweating, and I'm like, what was I thinking?
+
+Next:
+Why do I do this to myself? And all these unhelpful voices flood in and I just tried to make it stop, push it away,
+",,,,,0.6190476190476191,,0.6258658120541715,0.7073818810182068,,Question,135
+528.28,535.4,08:48,"
+Previous:
+Why do I do this to myself? And all these unhelpful voices flood in and I just tried to make it stop, push it away,
+
+Current:
+and of course that never worked. And I kept going on stage because I love it.
+
+Next:
+And years later, when I became a speaker coach, I got asked to do all these professional
+",,,,,0.7142857142857143,,0.47430993487025735,0.5957402923506914,,Question,136
+548.9599999999999,552.1999999999999,09:08,"
+Previous:
+presentations and they went, well, but I still had no way to deal with that massive anxiety.
+
+Current:
+And I was like, what can I do?
+
+Next:
+And I thought, well, what am I telling myself?
+",,,,,0.5238095238095238,,0.4667631551741962,0.4711911040314188,,Question,137
+560.92,568.0,09:20,"
+Previous:
+What if you mess up? You better be perfect.
+
+Current:
+I realized I was giving myself an impossible instruction to be perfect.
+
+Next:
+And that really was not working. But what would work?
+",,,,,0.5238095238095238,,0.7390675074950893,0.5150912830807196,,Question,138
+582.64,593.0,09:42,"
+Previous:
+Why did I say yes to this speaking gig?
+
+Current:
+What is my deeper purpose here? And I realized at the heart of it, I just want to help my audience to the best of my
+
+Next:
+And when I said that, I noticed everything change.
+",,,,,0.7142857142857143,,0.9695027395844101,0.7163259911220894,,Question,139
+653.4,658.4,10:53,"
+Previous:
+And it dawned on me. Like if I'm writing and crafting the words I say out loud, why not write and craft the
+
+Current:
+words I say silently to myself? Put it in the script.
+
+Next:
+It's the silent part of the script. So now every time I rehearse, every time I walk onto a stage, every time I join a virtual
+",,,,,0.3333333333333333,,0.5912333298873151,0.6685279810705509,,Other,140
+658.4,670.72,10:58,"
+Previous:
+words I say silently to myself? Put it in the script.
+
+Current:
+It's the silent part of the script. So now every time I rehearse, every time I walk onto a stage, every time I join a virtual
+
+Next:
+meeting, I say the fact that I'm not going to be a part of it.
+",,,,,0.23809523809523808,,0.30600640959371445,0.5698192922792306,,Other,141
+672.44,688.1600000000001,11:12,"
+Previous:
+meeting, I say the fact that I'm not going to be a part of it.
+
+Current:
+The following new and evolved silent sentence. I invite you to be here with me while I am here with you so that I can make this easier
+
+Next:
+Now that invitation to myself to be present, that's my definition of stage presence, being
+",,,,,0.09523809523809523,,0.6523312312622764,0.8241001407133993,,Other,142
+701.56,707.3599999999999,11:41,"
+Previous:
+Now that invitation to myself to be present, that's my definition of stage presence, being
+
+Current:
+And that invitation to the audience to be my partner, that reminds me, these are friends,
+
+Next:
+And I am choosing to be here. And now I'm not just making the shape of a good host.
+",,,,,0.09523809523809523,,0.7426858265274475,0.6495974837891776,,Other,143
+713.5999999999999,721.4799999999999,11:53,"
+Previous:
+And I am choosing to be here. And now I'm not just making the shape of a good host.
+
+Current:
+I really am a good host because I am genuinely welcoming you to my world.
+
+Next:
+Now how do you go about finding your silent sentence?
+",,,,,0.42857142857142855,,0.8792515248630207,0.7641374592217989,,Question,144
+731.8,735.84,12:11,"
+Previous:
+What do you want? What's your deeper purpose?
+
+Current:
+You could be like me and you might just want to help people.
+
+Next:
+Or it could be something more specific. For example, you might want at least one person in your audience to walk out and take a CPR
+",,,,,0.6190476190476191,,0.7805231055515351,0.5940120985647901,,Question,145
+766.48,773.2800000000001,12:46,"
+Previous:
+And this is not about graduating to some higher level of being where you never again feel
+
+Current:
+I know I haven't. I was feeling it pretty big about 15 minutes ago.
+
+Next:
+Well, we're getting ready to walk on this stage.
+",,,,,0.19047619047619047,,0.7783521141321204,0.5906172694898211,,Other,146
+776.48,785.4,12:56,"
+Previous:
+Well, we're getting ready to walk on this stage.
+
+Current:
+And I am and probably always will be a recovering perfectionist.
+
+Next:
+That is a well-worn pathway in my brain.
+",,,,,0.09523809523809523,,0.7514731727488886,0.43631370309465817,,Other,147
+788.84,796.4,13:08,"
+Previous:
+That is a well-worn pathway in my brain.
+
+Current:
+It is there. It cannot be erased. But now I have this other pathway.
+
+Next:
+And when big moments like this come up, I get to choose.
+",,,,,0.2857142857142857,,0.5192804714152796,0.4711911040314188,,Other,148
+828.9200000000001,837.0,13:48,"
+Previous:
+Our whole selves are always listening. So when you notice something isn't going well or you're fearing something might not go
+
+Current:
+well in the future, use this checklist. What am I telling myself?
+
+Next:
+What's being broadcast? Then replace that with a better sentence to help set you up for where you'd like to go.
+",,,,,0.6190476190476191,,0.35852372583479786,0.5900380018001065,,Question,149
+854.16,860.8,14:14,"
+Previous:
+And most importantly, put it in the script and practice it just as much as the words
+
+Current:
+you say out loud. So if you're running your intro in the shower three times in a row, it would go silent
+
+Next:
+bit, out loud bit. Not out loud, silent out loud until it is inextricably linked.
+",,,,,0.19047619047619047,,0.39325958854543575,0.5411469532092255,,Other,150
+867.5600000000001,870.72,14:27,"
+Previous:
+bit, out loud bit. Not out loud, silent out loud until it is inextricably linked.
+
+Current:
+And it is just a part of your process.
+
+Next:
+And it is repeatable and reliable. And then it's just there for you when you need it.
+",,,,,0.38095238095238093,,0.0,0.4791982473871456,,Other,151
+882.9200000000001,887.44,14:42,"
+Previous:
+Now I want to leave you with this final thought.
+
+Current:
+When you're at home and you're practicing some of these techniques like turn up the energy
+
+Next:
+and speak up, pause like a boss, superhero stance, practice with purpose and your silent
+",,,,,0.09523809523809523,,0.7599503773389847,0.8141015495783687,,Other,152
+929.8,936.4399999999999,15:29,"
+Previous:
+You can give that gift to your audience.
+
+Current:
+Reach outside your comfort zone to make your audience feel safe by making the choices
+
+Next:
+of a confident captain. And who knows? You might even have fun.
+",,,,,0.42857142857142855,,0.9627830042386023,0.6772612763816461,,Question,153
