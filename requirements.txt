@@ -1,0 +1,11 @@
+streamlit
+yt-dlp
+openai-whisper
+pandas
+numpy
+scikit-learn
+moviepy
+vaderSentiment
+torch
+ffmpeg-python
+google-generativeai
