@@ -5,11 +5,13 @@ import whisper
 import pandas as pd
 import numpy as np
 import subprocess
-
+import moviepy
+import streamlit as st
+st.write("MoviePy Version:", moviepy.__version__)
 from sklearn.feature_extraction.text import TfidfVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from moviepy import VideoFileClip
-from moviepy import concatenate_videoclips
+#from moviepy import VideoFileClip
+#from moviepy import concatenate_videoclips
 
 st.set_page_config(page_title="YouTube Highlight Extractor", layout="wide")
 
