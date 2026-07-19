@@ -4,8 +4,7 @@ openai-whisper
 pandas
 numpy
 scikit-learn
-moviepy
 vaderSentiment
-torch
+moviepy
 ffmpeg-python
-google-generativeai
+torch
