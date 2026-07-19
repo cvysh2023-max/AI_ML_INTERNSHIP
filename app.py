@@ -8,7 +8,8 @@ import subprocess
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
-from moviepy.editor import VideoFileClip, concatenate_videoclips
+from moviepy import VideoFileClip
+from moviepy import concatenate_videoclips
 
 st.set_page_config(page_title="YouTube Highlight Extractor", layout="wide")
 
